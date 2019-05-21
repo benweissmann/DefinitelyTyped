@@ -9,6 +9,7 @@
  *  See https://github.com/Microsoft/vscode/blob/master/LICENSE.txt for license information.
  *--------------------------------------------------------------------------------------------*/
 
+
 /**
  * Type Definition for Visual Studio Code 1.34 Extension API
  * See https://code.visualstudio.com/api for more information
